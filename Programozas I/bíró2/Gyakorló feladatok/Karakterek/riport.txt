@@ -1,0 +1,142 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Bard.java               
+  inflating: Character.java          
+  inflating: Druid.java              
+  inflating: Warlock.java            
+New directory generated for output
+Feltoltott .java fajlok: 4
+Ezekbol keszult .class fajlok: 4
+Sikeres feltoltes!
+[Character tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: health
+✓ Adattag: mana
+✓ Adattag: stamina
+✓ Adattag: name
+Konstruktorok
+✓ Konstruktor: 4 parameteres
+Metodusok
+✓ Metodus: getHealth
+✓ Metodus: getMana
+✓ Metodus: getStamina
+✓ Metodus: getName
+✓ Metodus: setHealth
+✓ Metodus: setMana
+✓ Metodus: setStamina
+✓ Metodus: useSpell
+∑ Character
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Warlock tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: isImpSummoned
+Konstruktorok
+✓ Konstruktor: 1 parameteres
+Metodusok
+✓ Metodus: toString
+✓ Metodus: useSpell
+✓ Metodus: summonImp
+∑ Warlock
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Bard tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: isPlayingBallad
+Konstruktorok
+✓ Konstruktor: 1 parameteres
+Metodusok
+✓ Metodus: toString
+✓ Metodus: useSpell
+✓ Metodus: playBallad
+∑ Bard
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Druid tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: isBearFormActive
+Konstruktorok
+✓ Konstruktor: 1 parameteres
+Metodusok
+✓ Metodus: toString
+✓ Metodus: useSpell
+✓ Metodus: changeForm
+∑ Druid
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestDruid.java
+Elokeszites: TestCharacter.java
+Elokeszites: TestWarlock.java
+Elokeszites: TestBard.java
+A megírt osztályok tesztelése
+
+Bard osztály tesztelése
+  ✓ Sikeres: Megfelelo a Bard osztaly (1.0 pont)
+  ✓ Sikeres: Megfelelo a Bard osztaly toString metódusa (1.0 pont)
+  ✓ Sikeres: Megfelelo a Bard useSpell() (3.0 pont)
+  ✓ Sikeres: Megfelelo a Bard playBallad() (3.0 pont)
+Bard osztály tesztelése befejezve, sikeres: 4, sikertelen: 0
+----------
+
+Character osztály tesztelése
+  ✓ Sikeres: Megfelelő a konstruktor (1.0 pont)
+  ✓ Sikeres: Megfelelőek a getterek és szetterek (1.0 pont)
+  ✓ Sikeres: Megfelelő a useSpell (1.0 pont)
+Character osztály tesztelése befejezve, sikeres: 3, sikertelen: 0
+----------
+
+Druid osztály tesztelése
+  ✓ Sikeres: Megfelelo a Druid osztaly (1.0 pont)
+  ✓ Sikeres: Megfelelo a Druid osztaly toString metódusa (1.0 pont)
+  ✓ Sikeres: Megfelelo a Druid useSpell() (3.0 pont)
+  ✓ Sikeres: Megfelelo a Druid changeForm() (3.0 pont)
+Druid osztály tesztelése befejezve, sikeres: 4, sikertelen: 0
+----------
+
+Warlock osztály tesztelése
+  ✓ Sikeres: Megfelelo a Warlock osztaly (1.0 pont)
+  ✓ Sikeres: Megfelelo a Warlock osztaly toString metódusa (1.0 pont)
+  ✓ Sikeres: Megfelelo a Warlock useSpell() (3.0 pont)
+  ✓ Sikeres: Megfelelo a Warlock summonImp() (3.0 pont)
+Warlock osztály tesztelése befejezve, sikeres: 4, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Bard	Tesztek (lefutott/összes): 4 / 4	Pontszám (elért/max): 8.0 / 8.0
+ - Character	Tesztek (lefutott/összes): 3 / 3	Pontszám (elért/max): 3.0 / 3.0
+ - Druid	Tesztek (lefutott/összes): 4 / 4	Pontszám (elért/max): 8.0 / 8.0
+ - Warlock	Tesztek (lefutott/összes): 4 / 4	Pontszám (elért/max): 8.0 / 8.0
+
+Végső pontszám
+27.0 / 27
+[██████████████████████████████████████████████████]
+Futasido: 0:03

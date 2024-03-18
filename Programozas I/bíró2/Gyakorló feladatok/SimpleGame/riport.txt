@@ -1,0 +1,43 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: SimpleGame.java         
+New directory generated for output
+Feltoltott .java fajlok: 1
+Ezekbol keszult .class fajlok: 1
+Sikeres feltoltes!
+[SimpleGame tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+Konstruktorok
+Metodusok
+✓ Metodus: convertTime
+✓ Metodus: digitsSum
+∑ SimpleGame
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestSimpleGame.java
+A megírt osztályok tesztelése
+
+SimpleGame osztály tesztelése
+  ✓ Sikeres: convertTime (5.0 pont)
+  ✓ Sikeres: digitSum (1.0 pont)
+SimpleGame osztály tesztelése befejezve, sikeres: 2, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - SimpleGame	Tesztek (lefutott/összes): 2 / 2	Pontszám (elért/max): 6.0 / 6.0
+
+Végső pontszám
+6.0 / 6
+[██████████████████████████████████████████████████]
+Futasido: 0:05

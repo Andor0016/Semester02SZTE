@@ -1,0 +1,56 @@
+body{
+    background-color: #242424;
+}
+
+h1{
+    color: #ffa914;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    <!--font-family: "Curlz Regular";-->
+}
+
+h2{
+    color: #dec26e;
+    padding: 5px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #e99f62;
+    border-radius: 10px;
+}
+
+.creature{
+    display: block;
+    margin: 5px auto;
+    border: 3px solid #d3b67e;
+    border-radius: 10px;
+}
+
+.creature-description{
+    color: white;
+}
+
+button{
+
+}
+
+#buy-ticket{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+button{
+    background-color: #ffd85f;
+    text-transform: uppercase;
+    color: black;
+    display: block;
+    margin: 10px auto 0 auto;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 250px;
+    height: 40px;
+}

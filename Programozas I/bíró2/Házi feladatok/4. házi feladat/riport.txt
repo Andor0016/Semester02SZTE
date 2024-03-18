@@ -1,0 +1,89 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Bokor.java              
+  inflating: SovenyvagoOllo.java     
+New directory generated for output
+Feltoltott .java fajlok: 2
+Ezekbol keszult .class fajlok: 2
+Sikeres feltoltes!
+[SovenyvagoOllo tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: elesseg
+Konstruktorok
+✓ Konstruktor: 0 parameteres
+Metodusok
+✓ Metodus: elez
+✓ Metodus: getElesseg
+✓ Metodus: vag
+∑ SovenyvagoOllo
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Bokor tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: fajta
+✓ Adattag: suruseg
+✓ Adattag: forma
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: getFajta
+✓ Metodus: setFajta
+✓ Metodus: getSuruseg
+✓ Metodus: setSuruseg
+✓ Metodus: forma
+✓ Metodus: setForma
+✓ Metodus: nyiras
+✓ Metodus: novekedes
+∑ Bokor
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestSovenyvagoOllo.java
+Elokeszites: TestBokor.java
+A megírt osztályok tesztelése
+
+Bokor osztály tesztelése
+  ✓ Sikeres: Adattagok OK (1.0 pont)
+  ✓ Sikeres: Konstruktor (2.0 pont)
+  ✓ Sikeres: Getterek es fajta szetter (2.0 pont)
+  ✓ Sikeres: forma (2.0 pont)
+  ✓ Sikeres: setSuruseg (1.0 pont)
+  ✓ Sikeres: setForma (1.0 pont)
+  ✓ Sikeres: nyiras (2.0 pont)
+  ✓ Sikeres: novekedes (2.0 pont)
+Bokor osztály tesztelése befejezve, sikeres: 8, sikertelen: 0
+----------
+
+SovenyvagoOllo osztály tesztelése
+  ✓ Sikeres: Alapertelmezett konstruktor (1.0 pont)
+  ✓ Sikeres: getElesseg (1.0 pont)
+  ✓ Sikeres: elez metodus (2.0 pont)
+  ✓ Sikeres: vag metodus (sikeres) (2.0 pont)
+  ✓ Sikeres: vag metodus (sikertelen) (2.0 pont)
+SovenyvagoOllo osztály tesztelése befejezve, sikeres: 5, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Bokor	Tesztek (lefutott/összes): 8 / 8	Pontszám (elért/max): 13.0 / 13.0
+ - SovenyvagoOllo	Tesztek (lefutott/összes): 5 / 5	Pontszám (elért/max): 8.0 / 8.0
+
+Végső pontszám
+21.0 / 21
+[██████████████████████████████████████████████████]
+Futasido: 0:04
