@@ -1,0 +1,105 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Csavarfej.java          
+  inflating: Csavarhuzo.java         
+  inflating: CserelhetoFejuCsavarhuzo.java  
+New directory generated for output
+Feltoltott .java fajlok: 3
+Ezekbol keszult .class fajlok: 3
+Sikeres feltoltes!
+[Csavarfej tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+Konstruktorok
+Metodusok
+∑ Csavarfej
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Csavarhuzo tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: meret
+✓ Adattag: csavarfej
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: getMeret
+✓ Metodus: getCsavarfej
+✓ Metodus: setMeret
+✓ Metodus: toString
+∑ Csavarhuzo
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[CserelhetoFejuCsavarhuzo tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+ ✓ Osztály módosítók
+Adattagok
+✖ Adattag: fejMeret
+✓ Adattag: egyhornyuFej
+✓ Adattag: phillipsFej
+✓ Adattag: imbuszFej
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: getMeret
+✓ Metodus: fejElhagy
+✓ Metodus: fejCsere
+∑ CserelhetoFejuCsavarhuzo
+ ✖ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✖ Minden pretest
+
+Elokeszites: TestCsavarfej.java
+Elokeszites: TestCserelhetoFejuCsavarhuzo.java
+Elokeszites: TestCsavarhuzo.java
+A megírt osztályok tesztelése
+
+Csavarfej osztály tesztelése
+  ✓ Sikeres: Megfelelo az osztaly (3.0 pont)
+Csavarfej osztály tesztelése befejezve, sikeres: 1, sikertelen: 0
+----------
+
+Csavarhuzo osztály tesztelése
+  ✓ Sikeres: Megfelelo az osztaly (2.0 pont)
+  ✓ Sikeres: Getterek és szetterek (2.0 pont)
+  ✓ Sikeres: toString (3.0 pont)
+Csavarhuzo osztály tesztelése befejezve, sikeres: 3, sikertelen: 0
+----------
+
+CserelhetoFejuCsavarhuzo osztály tesztelése
+  ✓ Sikeres: Megfelelő öröklődés (1.0 pont)
+  ✓ Sikeres: Méret gettere (2.0 pont)
+  ✓ Sikeres: fejElhagy (3.0 pont)
+  ✓ Sikeres: fejCsere önmagára (1.0 pont)
+  ✓ Sikeres: fejCsere létezőre (1.0 pont)
+  ✓ Sikeres: fejCsere nem létezőre (2.0 pont)
+CserelhetoFejuCsavarhuzo osztály tesztelése befejezve, sikeres: 6, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Csavarfej	Tesztek (lefutott/összes): 1 / 1	Pontszám (elért/max): 3.0 / 3.0
+ - Csavarhuzo	Tesztek (lefutott/összes): 3 / 3	Pontszám (elért/max): 7.0 / 7.0
+ - CserelhetoFejuCsavarhuzo	Tesztek (lefutott/összes): 6 / 6	Pontszám (elért/max): 10.0 / 10.0
+
+Végső pontszám
+20.0 / 20
+[██████████████████████████████████████████████████]
+Futasido: 0:03
