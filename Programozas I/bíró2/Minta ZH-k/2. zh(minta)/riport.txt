@@ -1,0 +1,127 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: ElektromosFogkefe.java  
+  inflating: Fej.java                
+  inflating: Fogkefe.java            
+New directory generated for output
+Feltoltott .java fajlok: 3
+Ezekbol keszult .class fajlok: 3
+Sikeres feltoltes!
+[Fej tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: szin
+✓ Adattag: allapot
+Konstruktorok
+✓ Konstruktor: 1 parameteres
+Metodusok
+✓ Metodus: getSzin
+✓ Metodus: getAllapot
+✓ Metodus: setAllapot
+∑ Fej
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Fogkefe tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: szin
+✓ Adattag: sortekSzama
+✓ Adattag: allapot
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: fogmosas
+✓ Metodus: cserelniKell
+✓ Metodus: dizajnos
+✓ Metodus: toString
+✓ Metodus: getSzin
+✓ Metodus: getSortekSzama
+✓ Metodus: setSortekSzama
+✓ Metodus: getAllapot
+∑ Fogkefe
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[ElektromosFogkefe tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: fej
+✓ Adattag: cserelhetoFej
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: fejCsere
+✓ Metodus: fogmosas
+✓ Metodus: cserelniKell
+✓ Metodus: dizajnos
+✓ Metodus: getAllapot
+∑ ElektromosFogkefe
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestElektromosFogkefe.java
+Elokeszites: TestFej.java
+Elokeszites: TestFogkefe.java
+A megírt osztályok tesztelése
+
+ElektromosFogkefe osztály tesztelése
+  ✓ Sikeres: Megfelelo az osztaly+adattag szintaxisa. (1.0 pont)
+  ✓ Sikeres: Konstruktor. (1.0 pont)
+  ✓ Sikeres: fejCsere (SZUKSEGES: Fej osztaly mukodese) (1.0 pont)
+  ✖ Sikertelen: fogmosas (SZUKSEGES: Fej osztaly mukodese) (2.0 pont)
+    - Hibaüzenet: A fej állapota nem csökkent megfelelően a fogmosás után. ==> expected: <98.5> but was: <98.0>
+  ✓ Sikeres: cserelniKell (SZUKSEGES: Fej osztaly mukodese) (1.0 pont)
+  ✓ Sikeres: dizajnos (SZUKSEGES: Fej osztaly mukodese) (1.0 pont)
+  ✓ Sikeres: getAllapot (SZUKSEGES: Fej osztaly mukodese) (1.0 pont)
+ElektromosFogkefe osztály tesztelése befejezve, sikeres: 6, sikertelen: 1
+----------
+
+Fej osztály tesztelése
+  ✓ Sikeres: Megfelelo az osztaly+adattag szintaxisa. (1.0 pont)
+  ✓ Sikeres: Konstruktor. (1.0 pont)
+  ✓ Sikeres: Getterek es szetterek. (1.0 pont)
+  ✓ Sikeres: setAllapot feltetelek. (1.0 pont)
+Fej osztály tesztelése befejezve, sikeres: 4, sikertelen: 0
+----------
+
+Fogkefe osztály tesztelése
+  ✓ Sikeres: Adattagok OK (1.0 pont)
+  ✓ Sikeres: Konstruktor tesztelese (1.0 pont)
+  ✖ Sikertelen: fogmosas tesztelese (alapeset) (1.0 pont)
+    - Hibaüzenet: A fogmosás hatékonysága nem megfelelő 3 perc időtartamra. ==> expected: <100.0> but was: <150.0>
+  ✖ Sikertelen: fogmosas tesztelese (mindenfele eset) (1.0 pont)
+    - Hibaüzenet: A fogmosás hatékonysága nem megfelelő 2 perc időtartamra. ==> expected: <66.66666666666666> but was: <0.0>
+  ✓ Sikeres: cserelniKell tesztelese (1.0 pont)
+  ✓ Sikeres: dizajnos metodus (1.0 pont)
+  ✓ Sikeres: toString tesztelese (1.0 pont)
+  ✓ Sikeres: getterek es setSortekSzama (1.0 pont)
+Fogkefe osztály tesztelése befejezve, sikeres: 6, sikertelen: 2
+----------
+
+---------
+Összegzés
+ - ElektromosFogkefe	Tesztek (lefutott/összes): 6 / 7	Pontszám (elért/max): 6.0 / 8.0
+ - Fej	Tesztek (lefutott/összes): 4 / 4	Pontszám (elért/max): 4.0 / 4.0
+ - Fogkefe	Tesztek (lefutott/összes): 6 / 8	Pontszám (elért/max): 6.0 / 8.0
+
+Végső pontszám
+16.0 / 20
+[████████████████████████████████████████                    ]
+Futasido: 0:03
