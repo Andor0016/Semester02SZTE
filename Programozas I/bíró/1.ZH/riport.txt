@@ -1,0 +1,46 @@
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Zh1.java                
+New directory generated for output
+Feltoltott .java fajlok: 1
+Ezekbol keszult .class fajlok: 1
+Sikeres feltoltes!
+[Zh1 tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+Konstruktorok
+Metodusok
+✓ Metodus: sorozat
+✓ Metodus: egyszam
+∑ Zh1
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestZh1.java
+A megírt osztályok tesztelése
+
+Zh1 osztály tesztelése
+  ✓ Sikeres: F1: Monoton sorozat. (1.0 pont)
+  ✓ Sikeres: F1: Normal esetek. (1.0 pont)
+  ✓ Sikeres: F1: Erdekesebb esetek. (1.0 pont)
+  ✓ Sikeres: F2: Egyszam altalanos esetek 1. (2.0 pont)
+  ✓ Sikeres: F2: Egyszam altalanos esetek 2. (2.0 pont)
+  ✓ Sikeres: F2: Egyszam szelsoseges esetek (3.0 pont)
+Zh1 osztály tesztelése befejezve, sikeres: 6, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Zh1	Tesztek (lefutott/összes): 6 / 6	Pontszám (elért/max): 10.0 / 10.0
+
+Végső pontszám
+10.0 / 10
+[██████████████████████████████████████████████████]
+Futasido: 0:04
