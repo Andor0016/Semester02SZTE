@@ -4,22 +4,18 @@ body{
 
 h1{
     color: #ffa914;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
     text-align: center;
-    <!--font-family: "Curlz Regular";-->
+    font-family: "Curlz MT";
+    font-size: 300%;
 }
 
 h2{
     color: #dec26e;
-    padding: 5px;
-}
-
-img{
-    display: block;
-    margin: 0 auto;
-    border: 3px solid #e99f62;
-    border-radius: 10px;
+    margin-left: 1rem;
+    margin-bottom: 0;
 }
 
 .container{
@@ -29,15 +25,27 @@ img{
 
 .creature{
     display: block;
-    margin: 0.5rem 1rem ;
+    margin: 8px ;
     border: 3px solid #d3b67e;
     border-radius: 15px;
-    width: 55rem;
+    width: 48%;
 }
 
 .creature-content{
     display: flex;
     flex-direction: row;
+}
+
+.creature-content img{
+    display: block;
+    margin: 1rem;
+    border: 3px solid #e99f62;
+    border-radius: 10px;
+    width: 20rem;
+}
+
+.creature-content img:hover{
+    scale: 105%;
 }
 
 .creature-description{
@@ -54,14 +62,93 @@ button{
     text-align: center;
 }
 
+.price{
+    color: #d3b67e;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.price::before{
+    content: "$ ";
+}
+
 button{
     background-color: #ffd85f;
     text-transform: uppercase;
     color: black;
     display: block;
-    margin: 10px auto 0 auto;
+    margin: 8px auto 50px auto;
     cursor: pointer;
     transition: background-color 0.3s;
     width: 250px;
     height: 40px;
+
+}
+
+.creature-abilities {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px auto;
+    width: 80%;
+    max-width: 400px;
+}
+
+.ability-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.ability-bar-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+}
+
+.ability-bar {
+    height: 100%;
+    border-radius: 5px;
+    transition: width 0.5s ease-in-out;
+}
+
+.bar--low {
+    background-color: #ff0000;
+}
+
+.bar--medium {
+    background-color: #ffa500;
+}
+
+.bar--high {
+    background-color: #00ff00;
+}
+
+.bar--danger {
+    background-color: #ff0000;
+}
+
+.bar--intelligence {
+    background-color: #00ff00;
+}
+
+.bar--frequency {
+    background-color: #ffa500;
+}
+
+.bar--low {
+    width: 20%;
+}
+
+.bar--medium {
+    width: 50%;
+}
+
+.bar--high {
+    width: 80%;
 }
