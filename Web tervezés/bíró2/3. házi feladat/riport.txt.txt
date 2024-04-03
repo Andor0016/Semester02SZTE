@@ -1,0 +1,35 @@
+HOZZAVALOK SZAMA (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+------------------------------------
+LEGNAGYOBB MENNYISEG (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+------------------------------------
+HOZZAVALOK BESZERZESE (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+RENDSZEREZES (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+------------------------------------
+VARAZSLAT ELOKESZITESE (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+FOZES (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+------------------------------------
+Osszesen: 30 / 30 pont
