@@ -1,0 +1,110 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Gazsuto.java            
+  inflating: MikrohullamuSuto.java   
+  inflating: Suto.java               
+New directory generated for output
+Feltoltott .java fajlok: 3
+Ezekbol keszult .class fajlok: 3
+Sikeres feltoltes!
+[Suto tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: tipus
+✓ Adattag: etel
+✓ Adattag: koszossag
+✓ Adattag: haviFogyasztas
+Konstruktorok
+✓ Konstruktor: 1 parameteres
+Metodusok
+✓ Metodus: eteltBerak
+✓ Metodus: eteltKivesz
+✓ Metodus: kitakarit
+✓ Metodus: sut
+✓ Metodus: koszossagNoveles
+∑ Suto
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Gazsuto tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+✓ Az osztaly fejlece megfelelo.
+Adattagok
+✓ Adattag: maximumHofok
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: sut
+✓ Metodus: koszossagNoveles
+∑ Gazsuto
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[MikrohullamuSuto tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+✓ Az osztaly fejlece megfelelo.
+Adattagok
+✓ Adattag: maximalisTeljesitmeny
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: sut
+✓ Metodus: koszossagNoveles
+∑ MikrohullamuSuto
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestGazsuto.java
+Elokeszites: TestMikrohullamuSuto.java
+Elokeszites: TestSuto.java
+A megírt osztályok tesztelése
+
+Gazsuto osztály tesztelése
+  ✓ Sikeres: Oroklodes es az override megfelelo (1.0 pont)
+  ✓ Sikeres: sut (tul magas homersekleten) (1.0 pont)
+  ✓ Sikeres: sut - alap eset (sikeres sutes, etel berakas/kivetel, koszossagNoveles) (1.0 pont)
+  ✓ Sikeres: sut (havi fogyasztas valtoztatas) (1.0 pont)
+  ✓ Sikeres: sut (koszossag noveles) + koszossag noveles (1.0 pont)
+Gazsuto osztály tesztelése befejezve, sikeres: 5, sikertelen: 0
+----------
+
+MikrohullamuSuto osztály tesztelése
+  ✓ Sikeres: Oroklodes es az override megfelelo (1.0 pont)
+  ✓ Sikeres: sut (tul nagy hofok) (1.0 pont)
+  ✓ Sikeres: sut - alap eset (sikeres sutes, etel berakas/kivetel, koszossagNoveles) (1.0 pont)
+  ✓ Sikeres: sut (havi fogyasztas valtoztatas) (1.0 pont)
+  ✓ Sikeres: sut (koszossag noveles) + koszossag noveles (1.0 pont)
+MikrohullamuSuto osztály tesztelése befejezve, sikeres: 5, sikertelen: 0
+----------
+
+Suto osztály tesztelése
+  ✓ Sikeres: Az osztalyban semmi olyan nem modosult, aminek nem lenne szabad. (0.0 pont)
+Suto osztály tesztelése befejezve, sikeres: 1, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Gazsuto	Tesztek (lefutott/összes): 5 / 5	Pontszám (elért/max): 5.0 / 5.0
+ - MikrohullamuSuto	Tesztek (lefutott/összes): 5 / 5	Pontszám (elért/max): 5.0 / 5.0
+ - Suto	Tesztek (lefutott/összes): 1 / 1	Pontszám (elért/max): 0.0 / 0.0
+
+Végső pontszám
+10.0 / 10
+[██████████████████████████████████████████████████]
+Futasido: 0:04

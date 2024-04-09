@@ -1,0 +1,158 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: BesorolassalRendelkezo.java  
+  inflating: Sorozat.java            
+  inflating: TVMusor.java            
+  inflating: VideoMagno.java         
+  inflating: Zeneszam.java           
+New directory generated for output
+Feltoltott .java fajlok: 5
+Ezekbol keszult .class fajlok: 5
+Sikeres feltoltes!
+[BesorolassalRendelkezo tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+ ✓ Osztály módosítók
+Adattagok
+Konstruktorok
+Metodusok
+✓ Metodus: getKorhatarBesorolas
+∑ BesorolassalRendelkezo
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Zeneszam tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+ ✓ Osztály módosítók
+Adattagok
+✓ Adattag: eloado
+✓ Adattag: szamCim
+✓ Adattag: szoveg
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: getEloado
+✓ Metodus: getSzamCim
+✓ Metodus: getKorhatarBesorolas
+∑ Zeneszam
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[TVMusor tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+ ✓ Osztály módosítók
+Adattagok
+✓ Adattag: nev
+✓ Adattag: hossz
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: getNev
+✓ Metodus: getHossz
+✓ Metodus: setHossz
+∑ TVMusor
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Sorozat tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+ ✓ Osztály módosítók
+Adattagok
+✓ Adattag: korhatarBesorolas
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: getKorhatarBesorolas
+∑ Sorozat
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[VideoMagno tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+Konstruktorok
+Metodusok
+✓ Metodus: lejatszas
+∑ VideoMagno
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestVideoMagno.java
+Elokeszites: TestBesorolassalRendelkezo.java
+Elokeszites: TestZeneszam.java
+Elokeszites: TestTVMusor.java
+Elokeszites: TestSorozat.java
+A megírt osztályok tesztelése
+
+BesorolassalRendelkezo osztály tesztelése
+  ✓ Sikeres: Az interfesz letezik (1.0 pont)
+  ✓ Sikeres: A getKorhatarBesorolas metodus deklaralva van (1.0 pont)
+BesorolassalRendelkezo osztály tesztelése befejezve, sikeres: 2, sikertelen: 0
+----------
+
+Sorozat osztály tesztelése
+  ✓ Sikeres: Sorozat oroklodik a TVMusorbol (1.0 pont)
+  ✓ Sikeres: Sorozat konstruktor (1.0 pont)
+  ✖ Sikertelen: Sorozat getKorhatarBesorolas getter (1.0 pont)
+    - Hibaüzenet: A "getKorhatarBesorolas" metodus helytelen ertekkel ter vissza ==> expected: <-1> but was: <0>
+Sorozat osztály tesztelése befejezve, sikeres: 2, sikertelen: 1
+----------
+
+TVMusor osztály tesztelése
+  ✓ Sikeres: TVMusor implementalja a BesorolassalRendelkezo interface-t (1.0 pont)
+  ✓ Sikeres: TVMusor mezok helyesek (1.0 pont)
+  ✓ Sikeres: Konstruktor (1.0 pont)
+  ✓ Sikeres: getterek/setterek (1.0 pont)
+TVMusor osztály tesztelése befejezve, sikeres: 4, sikertelen: 0
+----------
+
+VideoMagno osztály tesztelése
+  ✖ Sikertelen: Lejatszas metodus, korhatar besorolas kezelese (elofeltetel: Sorozat, Zeneszam) (1.0 pont)
+    - Hibaüzenet: Alacsony korhatar eseten helytelen szoveg irodik ki ==> expected: <Sajnalom, de a korhatar miatt ezt nem jatszhatom le.> but was: <>
+  ✖ Sikertelen: Lejatszas metodus, type casting (elofeltetel: Sorozat, Zeneszam) (1.0 pont)
+    - Hibaüzenet: Nem a megfelelo szoveget irod ki sorozat eseten ==> expected: <Lejatszasra kerult a(z) itsAlwaysSunnyInProg1 cimu sorozat.> but was: <Sajnalom, de a korhatar miatt ezt nem jatszhatom le.>
+VideoMagno osztály tesztelése befejezve, sikeres: 0, sikertelen: 2
+----------
+
+Zeneszam osztály tesztelése
+  ✓ Sikeres: Zeneszam implementalja a BesorolassalRendelkezo interface-t (1.0 pont)
+  ✓ Sikeres: Zeneszam adattagok es konstruktor (1.0 pont)
+  ✓ Sikeres: Zeneszam getterek (1.0 pont)
+Zeneszam osztály tesztelése befejezve, sikeres: 3, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - BesorolassalRendelkezo	Tesztek (lefutott/összes): 2 / 2	Pontszám (elért/max): 2.0 / 2.0
+ - Sorozat	Tesztek (lefutott/összes): 2 / 3	Pontszám (elért/max): 2.0 / 3.0
+ - TVMusor	Tesztek (lefutott/összes): 4 / 4	Pontszám (elért/max): 4.0 / 4.0
+ - VideoMagno	Tesztek (lefutott/összes): 0 / 2	Pontszám (elért/max): 0.0 / 2.0
+ - Zeneszam	Tesztek (lefutott/összes): 3 / 3	Pontszám (elért/max): 3.0 / 3.0
+
+Végső pontszám
+11.0 / 14
+[███████████████████████████████████████                      ]
+Futasido: 0:03
