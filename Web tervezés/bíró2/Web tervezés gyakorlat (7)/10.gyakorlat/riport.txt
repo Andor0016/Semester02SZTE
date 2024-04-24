@@ -1,0 +1,32 @@
+NARANCS (7 / 7 pont)
+    sargasag adattag: 1 / 1 pont
+    savanyusag adattag: 1 / 1 pont
+    konstruktor: 3 / 3 pont
+    getSargasag: 1 / 1 pont
+    getSavanyusag: 1 / 1 pont
+------------------------------------
+PAP (9 / 12 pont)
+    turelem adattag: 1 / 1 pont
+    el adattag: 1 / 1 pont
+    konstruktor: 2 / 2 pont
+    meghal metodus: 1 / 2 pont
+    narancsotAd metodus: 2 / 4 pont
+    getTurelem: 1 / 1 pont
+    isEl: 1 / 1 pont
+------------------------------------
+CITRICAEXCEPTION (2 / 2 pont)
+    oroklodes: 1 / 1 pont
+    konstruktor: 1 / 1 pont
+------------------------------------
+CITRICA (3 / 3 pont)
+    bolyhos adattag: 1 / 1 pont
+    sajatNarancs adattag: 1 / 1 pont
+    konstruktor: 1 / 1 pont
+
+    A TESZTEK FUTTATÁSA KÖZBEN KIVÉTEL KELETKEZETT, ÍGY A TESZTEK NEM FUTTATHATÓK TOVÁBB!
+------------------------------------
+HARCICITRICA (0 / 0 pont)
+
+    A TESZTEK FUTTATÁSA KÖZBEN KIVÉTEL KELETKEZETT, ÍGY A TESZTEK NEM FUTTATHATÓK TOVÁBB!
+------------------------------------
+Osszesen: 21 / 24 pont

@@ -1,0 +1,100 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Langtamadas.java        
+  inflating: Siptamadas.java         
+  inflating: Tamadas.java            
+New directory generated for output
+Feltoltott .java fajlok: 3
+Ezekbol keszult .class fajlok: 3
+Sikeres feltoltes!
+[Tamadas tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: nev
+✓ Adattag: ero
+✓ Adattag: vegrehajtoNeve
+✓ Adattag: vegrehajtoKora
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: ujVegrehajto
+✓ Metodus: sikertelenseg
+✓ Metodus: hatekonysag
+✓ Metodus: tamad
+∑ Tamadas
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Siptamadas tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+✓ Az osztaly fejlece megfelelo.
+Adattagok
+✓ Adattag: ido
+✓ Adattag: hangossag
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: hatekonysag
+✓ Metodus: tamad
+∑ Siptamadas
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[Langtamadas tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+✓ Az osztaly fejlece megfelelo.
+Adattagok
+✓ Adattag: hofok
+Konstruktorok
+✓ Konstruktor: 2 parameteres
+Metodusok
+✓ Metodus: hatekonysag
+✓ Metodus: tamad
+∑ Langtamadas
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestSiptamadas.java
+Elokeszites: TestLangtamadas.java
+A TestTamadas.java fajlban egy tesztet sem futtathatunk.
+A megírt osztályok tesztelése
+
+Langtamadas osztály tesztelése
+  ✓ Sikeres: Az osztaly letezik es megfeleloek adattagjai (1.0 pont)
+  ✓ Sikeres: hatekonysag metodus (2.0 pont)
+  ✓ Sikeres: tamad metodus (2.0 pont)
+Langtamadas osztály tesztelése befejezve, sikeres: 3, sikertelen: 0
+----------
+
+Siptamadas osztály tesztelése
+  ✓ Sikeres: Az osztaly letezik es megfeleloek adattagjai (1.0 pont)
+  ✓ Sikeres: hatekonysag metodus (2.0 pont)
+  ✓ Sikeres: tamad metodus (2.0 pont)
+Siptamadas osztály tesztelése befejezve, sikeres: 3, sikertelen: 0
+----------
+
+---------
+Összegzés
+ - Langtamadas	Tesztek (lefutott/összes): 3 / 3	Pontszám (elért/max): 5.0 / 5.0
+ - Siptamadas	Tesztek (lefutott/összes): 3 / 3	Pontszám (elért/max): 5.0 / 5.0
+
+Végső pontszám
+10.0 / 10
+[██████████████████████████████████████████████████]
+Futasido: 0:05
