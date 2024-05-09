@@ -1,0 +1,49 @@
+BELEPO (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+LAKAT (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+BELEPOJEGY (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+ALLATOK (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+------------------------------------
+NYILVANTARTAS (5 / 5 pont)
+    1. teszt: 1 / 1 pont
+    2. teszt: 1 / 1 pont
+    3. teszt: 1 / 1 pont
+    4. teszt: 1 / 1 pont
+    5. teszt: 1 / 1 pont
+------------------------------------
+KOBOLDHARC (5 / 5 pont)
+    1. teszt: 2 / 2 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 1 / 1 pont
+------------------------------------
+FONIXEK (5 / 5 pont)
+    1. teszt: 2 / 2 pont
+    3. teszt: 2 / 2 pont
+    4. teszt: 1 / 1 pont
+------------------------------------
+VIZIHALAK (5 / 5 pont)
+    1. teszt: 2 / 2 pont
+    2. teszt: 2 / 2 pont
+    3. teszt: 1 / 1 pont
+------------------------------------
+Osszesen: 40 / 40 pont
