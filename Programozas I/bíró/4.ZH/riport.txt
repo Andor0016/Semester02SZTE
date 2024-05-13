@@ -1,0 +1,88 @@
+
+A feltöltött fájl valóban zip fájl.
+Archive:  h349575.zip
+  inflating: Idojarasjelentes.java   
+  inflating: IduwujarasKereso.java   
+New directory generated for output
+Feltoltott .java fajlok: 2
+Ezekbol keszult .class fajlok: 2
+Sikeres feltoltes!
+[Idojarasjelentes tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+✓ Adattag: varos
+✓ Adattag: hitelesseg
+✓ Adattag: elorejelzesek
+Konstruktorok
+✓ Konstruktor: 3 parameteres
+Metodusok
+✓ Metodus: compareTo
+✓ Metodus: hozzaad
+✓ Metodus: melegNapokSzama
+∑ Idojarasjelentes
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+[IduwujarasKereso tesztelese]
+Fuggosegek
+✓ Az osztalynak nincsenek fuggosegei.
+Osztaly deklaracio
+Adattagok
+Konstruktorok
+Metodusok
+✓ Metodus: rendez
+✓ Metodus: irrelevansakTorlese
+∑ IduwujarasKereso
+ ✓ Adattagok
+ ✓ Metodusok
+ ✓ Konstruktorok
+
+
+
+✓ Minden pretest
+
+Elokeszites: TestIdojarasjelentes.java
+Elokeszites: TestIduwujarasKereso.java
+Note: TestIdojarasjelentes.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+A megírt osztályok tesztelése
+
+Idojarasjelentes osztály tesztelése
+  ✓ Sikeres: Elvart interface implementalasa (1.0 pont)
+  ✓ Sikeres: Megfelelo metodus feluldefinialasa az osszehasonlitashoz (1.0 pont)
+  ✓ Sikeres: Osszehasonlitas kulonbozo hitelessegre (2.0 pont)
+  ✓ Sikeres: Osszehasonlitas megegyezo hitelessegre (1.0 pont)
+  ✓ Sikeres: hozzaad metodus (nem letezik a kulcs) (1.0 pont)
+  ✓ Sikeres: hozzaad metodus (letezo kulcs is) (1.0 pont)
+  ✓ Sikeres: melegNapokSzama (2.0 pont)
+Idojarasjelentes osztály tesztelése befejezve, sikeres: 7, sikertelen: 0
+----------
+
+IduwujarasKereso osztály tesztelése
+  ✖ Sikertelen: rendez: null / ures tomb eseteben (1.0 pont)
+    - NullPointerException, valahol lemaradt egy null check?
+  ✓ Sikeres: rendez: visszaadott kollekcio merete (1.0 pont)
+  ✓ Sikeres: rendez: 1 elemu tomb (1.0 pont)
+  ✓ Sikeres: rendez: kulonbozo hitelesseg (1.0 pont)
+  ✓ Sikeres: rendez: van azonos hitelesseg is (2.0 pont)
+  ✓ Sikeres: irrelevansakTorlese: visszateresi ertek (1.0 pont)
+  ✓ Sikeres: irrelevansakTorlese: lista merete (1.0 pont)
+  ✓ Sikeres: irrelevansakTorlese: csak varos alapjan (1.0 pont)
+  ✓ Sikeres: irrelevansakTorlese: csak hitelesseg alapjan (1.0 pont)
+  ✓ Sikeres: irrelevansakTorlese: vegyes (1.0 pont)
+IduwujarasKereso osztály tesztelése befejezve, sikeres: 9, sikertelen: 1
+----------
+
+---------
+Összegzés
+ - Idojarasjelentes	Tesztek (lefutott/összes): 7 / 7	Pontszám (elért/max): 9.0 / 9.0
+ - IduwujarasKereso	Tesztek (lefutott/összes): 9 / 10	Pontszám (elért/max): 10.0 / 11.0
+
+Végső pontszám
+19.0 / 10
+[██████████████████████████████████████████████████]
+Futasido: 0:04
